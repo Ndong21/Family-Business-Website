@@ -24,8 +24,9 @@ nav .logo {
        font-weight: bold;
        float: left;
        color: red;
-       letter-spacing: 2px;
+       letter-spacing: 6px;
        cursor: pointer;
+       
        
 }
 nav ul {

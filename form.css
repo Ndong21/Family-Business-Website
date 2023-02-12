@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ body {
+    background-color: #05c46b;
+ }
+ .container {
+    width: 35%;
+    height: 100vh;
+    background-color: #fff;
+    margin: 0px auto 0px auto;
+    padding: 10px;
+ }
+
+
+ .container .field {
+   padding-bottom: 12px;
+
+ }
+ h1 { 
+    text-align: center;
+    margin-bottom:30px ;
+ }
